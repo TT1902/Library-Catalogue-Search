@@ -1,0 +1,44 @@
+book_id,title,author,subject,year
+
+B001,Computer Networks (5th Edition),Andrew S. Tanenbaum; David J. Wetherall,Computer Networks; Data Communication; TCP/IP; Networking,2011
+B002,Computer Networking: A Top-Down Approach (8th Edition),James F. Kurose; Keith W. Ross,Computer Networks; Internet; Networking Protocols; TCP/IP,2022
+B003,Data Communications and Networking (5th Edition),Behrouz A. Forouzan,Data Communication; Computer Networks; Network Protocols; TCP/IP,2013
+B004,TCP/IP Illustrated Volume 1: The Protocols (2nd Edition),Kevin R. Fall; W. Richard Stevens,TCP/IP; Internet Protocols; Network Architecture; Networking,2011
+B005,Internetworking with TCP/IP Volume One (6th Edition),Douglas E. Comer,TCP/IP; Internetworking; IPv4; IPv6; Network Protocols,2013
+B006,Computer Security: Principles and Practice (5th Edition),William Stallings; Lawrie Brown,Computer Security; Cybersecurity; Network Security; Information Security,2023
+B007,Cryptography and Network Security: Principles and Practice (8th Edition),William Stallings,Cryptography; Network Security; Encryption; Information Security,2023
+B008,Security Engineering: A Guide to Building Dependable Distributed Systems (3rd Edition),Ross Anderson,Security Engineering; Computer Security; System Security; Distributed Systems,2020
+B009,Operating System Concepts (10th Edition),Abraham Silberschatz; Peter B. Galvin; Greg Gagne,Operating Systems; Process Management; Memory Management; File Systems,2018
+B010,Modern Operating Systems (5th Edition),Andrew S. Tanenbaum; Herbert Bos,Operating Systems; Distributed Systems; Memory Management; Virtualization,2022
+B011,Operating Systems: Three Easy Pieces,Remzi H. Arpaci-Dusseau; Andrea C. Arpaci-Dusseau,Operating Systems; Concurrency; Virtualization; File Systems,2018
+B012,Introduction to Algorithms (4th Edition),Thomas H. Cormen; Charles E. Leiserson; Ronald L. Rivest; Clifford Stein,Algorithms; Data Structures; Algorithm Analysis; Sorting; Graphs,2022
+B013,Algorithms (4th Edition),Robert Sedgewick; Kevin Wayne,Algorithms; Data Structures; Sorting; Searching; Graph Algorithms,2011
+B014,Data Structures and Algorithm Analysis in Java (3rd Edition),Mark A. Weiss,Data Structures; Algorithm Analysis; Java Programming; Sorting; Trees,2012
+B015,Data Structures and Algorithms in Java (6th Edition),Michael T. Goodrich; Roberto Tamassia; Michael H. Goldwasser,Data Structures; Algorithms; Java Programming; Trees; Graphs,2014
+B016,Database System Concepts (7th Edition),Abraham Silberschatz; Henry F. Korth; S. Sudarshan,Database Management; SQL; Relational Databases; Transactions,2019
+B017,Fundamentals of Database Systems (7th Edition),Ramez Elmasri; Shamkant B. Navathe,Database Management; Database Design; SQL; Data Modeling,2016
+B018,"Database Systems: Design, Implementation, & Management (13th Edition)",Carlos Coronel; Steven Morris,Database Management; Database Design; SQL; NoSQL; Data Modeling,2019
+
+B019,Designing Data-Intensive Applications,Martin Kleppmann,Database Systems; Distributed Systems; Data Engineering; NoSQL,2017
+B020,Database Internals,Alex Petrov,Database Management; Storage Engines; Database Indexing; B-Trees,2019
+B021,Artificial Intelligence: A Modern Approach (4th Edition),Stuart Russell; Peter Norvig,Artificial Intelligence; Machine Learning; Intelligent Agents; Robotics,2021
+B022,Deep Learning,Ian Goodfellow; Yoshua Bengio; Aaron Courville,Deep Learning; Neural Networks; Machine Learning; Artificial Intelligence,2016
+B023,"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (3rd Edition)",Aurélien Géron,Machine Learning; Deep Learning; Python; Neural Networks,2022
+B024,Practical Statistics for Data Scientists (2nd Edition),Peter Bruce; Andrew Bruce; Peter Gedeck,Data Science; Statistics; Machine Learning; Data Analysis,2020
+B025,Kubernetes: Up and Running (3rd Edition),Brendan Burns; Joe Beda; Kelsey Hightower; Lachlan Evenson,Cloud Computing; Kubernetes; Container Orchestration; DevOps,2022
+B026,Cloud Native Patterns,Cornelia Davis,Cloud Computing; Cloud Native Applications; Microservices; Distributed Systems,2019
+B027,Designing Distributed Systems,Brendan Burns,Distributed Systems; Cloud Computing; Containers; System Architecture,2018
+B028,Cloud Native DevOps with Kubernetes,John Arundel; Justin Domingus,Cloud Computing; DevOps; Kubernetes; Containers,2019
+
+B029,Introduction to Information Retrieval,Christopher D. Manning; Prabhakar Raghavan; Hinrich Schütze,Information Retrieval; Search Engines; Text Mining; Information Science,2008
+B030,The Web Application Hacker's Handbook (2nd Edition),Dafydd Stuttard; Marcus Pinto,Web Security; Ethical Hacking; Web Application Security; Vulnerability Assessment,2011
+B031,The Linux Programming Interface,Michael Kerrisk,Linux; System Programming; Operating Systems; UNIX; System Calls,2010
+B032,The C Programming Language (2nd Edition),Brian W. Kernighan; Dennis M. Ritchie,C Programming; Programming Languages; Algorithms; Software Development,1988
+B033,Effective Java (3rd Edition),Joshua Bloch,Java Programming; Object-Oriented Programming; Software Development; Programming Best Practices,2017
+B034,Software Engineering (10th Edition),Ian Sommerville,Software Engineering; Software Design; Software Testing; Software Development,2015
+B035,Learning Python (5th Edition),Mark Lutz,Python Programming; Programming Languages; Software Development; Scripting,2013
+B036,Fluent Python (2nd Edition),Luciano Ramalho,Python Programming; Data Structures; Object-Oriented Programming; Software Development,2022
+B037,"Compilers: Principles, Techniques, and Tools (2nd Edition)",Alfred V. Aho; Monica S. Lam; Ravi Sethi; Jeffrey D. Ullman,Compiler Design; Programming Languages; Computer Science; Syntax Analysis,2006
+B038,Code Complete (2nd Edition),Steve McConnell,Software Engineering; Software Construction; Programming; Software Design,2004
+B039,Head First Design Patterns (2nd Edition),Eric Freeman; Elisabeth Robson,Software Design; Design Patterns; Object-Oriented Programming; Java,2020
+B040,"The Art of Computer Programming, Volume 1: Fundamental Algorithms (3rd Edition)",Donald E. Knuth,Algorithms; Computer Programming; Data Structures; Mathematical Foundations,1997

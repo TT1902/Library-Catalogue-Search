@@ -1,0 +1,44 @@
+
+B001 - https://books.google.com/books?id=T7lGswEACAAJ
+B002 - https://library.bracu.ac.bd/cgi-bin/koha/opac-MARCdetail.pl?biblionumber=47627
+B003 - https://learn.mheducation.com/rs/303-FKF-702/images/McGraw%20Hill%20HED%202020%20Asia%20-%20Engineering.pdf
+B004 - https://www.oreilly.com/library/view/tcp-ip-illustrated-volume/9780132808200/title.xhtml
+B005 - https://www.pearson.com/en-us/subject-catalog/p/Comer-Internetworking-with-TCP-IP-Volume-One-6th-Edition/P200000003537
+B006 - https://www.pearson.com/en-us/subject-catalog/p/computer-security-principles-and-practice/P200000010333/9780138091712
+B007 - https://in.pearson.com/content/dam/region-growth/india/pearson-india/in-pdc/pdf/new-catalog-pdf/Catalogue-Computer-Science-Engineering-2026.pdf
+B008 - https://www.wiley.com/en-us/-p-9781119642787
+
+B009 - https://www.wiley.com/en-in/operating-system-concepts-10th-edition-p-9781119320913
+B010 - https://www.pearson.com/en-us/subject-catalog/p/modern-operating-systems/P200000003295/9780137618934
+B011 - https://research.cs.wisc.edu/wind/OSTEP/
+B012 - https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/
+B013 - https://sedgewick.io/books/algorithms/
+B014 - https://www.pearson.com/en-us/subject-catalog/p/data-structures-and-algorithm-analysis-in-java/P200000003475
+B015 - https://www.wiley.com/en-us/data-structures-and-algorithms-in-java-6th-edition-p-9781118771334
+B016 - https://www.db-book.com/
+B017 - https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-database-systems/P200000003546
+B018 - https://www.cengage.com/c/database-systems-design-implementation-management-13e-coronel-morris/9781337627900
+
+B019 - https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
+B020 - https://www.oreilly.com/library/view/database-internals/9781492040330/
+B021 - https://www.pearson.com/en-us/subject-catalog/p/artificial-intelligence-a-modern-approach/P200000003500
+B022 - https://mitpress.mit.edu/9780262337373/deep-learning/
+B023 - https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/
+B024 - https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/
+B025 - https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192
+B026 - https://www.oreilly.com/library/view/cloud-native-patterns/9781617294297/
+B027 - https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/
+B028 - https://www.oreilly.com/library/view/cloud-native-devops/9781492040750/
+
+B029 - https://nlp.stanford.edu/IR-book/
+B030 - https://www.wiley.com/en-us/the-web-application-hacker%27s-handbook-finding-and-exploiting-security-flaws-2nd-edition-p-9781118026472
+B031 - https://kerrisk.com/tlpi/
+B032 - https://www.informit.com/store/c-programming-language-9780133086232
+B033 - https://www.informit.com/store/effective-java-9780134686097
+B034 - https://www.oreilly.com/library/view/software-engineering-10th/9780137586691/
+B035 - https://www.oreilly.com/library/view/learning-python-5th/9781449355722/
+B036 - https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/
+B037 - https://www.pearson.com/en-us/subject-catalog/p/Aho-Compilers-Principles-Techniques-and-Tools-2nd-Edition/P200000003472?view=educator
+B038 - https://www.informit.com/store/code-complete-9780735619678
+B039 - https://www.oreilly.com/library/view/head-first-design/9781492077992/
+B040 - https://www.oreilly.com/library/view/art-of-computer/9780321635754/title.xhtml
